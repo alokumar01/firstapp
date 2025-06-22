@@ -12,6 +12,12 @@ const App = () => {
       <TouchableOpacity style={{ padding: 20, backgroundColor: "green" }}>
         <Text>Button</Text>
       </TouchableOpacity>
+      <TouchableOpacity style={{ padding: 20, backgroundColor: "green" }}>
+        <Text>Button</Text>
+      </TouchableOpacity>
+      <TouchableOpacity style={{ padding: 20, backgroundColor: "green" }}>
+        <Text>Button</Text>
+      </TouchableOpacity>
 
       
 
